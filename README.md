@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mantas 👋
 
-<!--
-**mantelis0951/mantelis0951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PHP & Symfony Backend Developer
 
-Here are some ideas to get you started:
+I'm a junior PHP developer with around one year of professional experience working with PHP, Symfony and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently strengthening my backend development skills and building practical projects to demonstrate my progress.
+
+### 🛠️ Tech Stack
+
+- **Backend:** PHP, Symfony
+- **Database:** MySQL
+- **Development tools:** Docker, Git, GitHub, PhpStorm
+- **Currently learning:** Advanced SQL, Doctrine ORM, REST APIs, PHPUnit and CI/CD
+
+### 🚀 Current Goals
+
+- Build a personal developer portfolio using Symfony.
+- Strengthen database design and backend architecture skills.
+- Develop well-documented projects with automated tests.
+- Grow professionally as a PHP/Symfony backend developer.
+
+### 📂 Featured Projects
+
+New Symfony and PHP backend projects coming soon!
+
+### 📫 Let's Connect
+
+Open to PHP/Symfony backend development opportunities.
